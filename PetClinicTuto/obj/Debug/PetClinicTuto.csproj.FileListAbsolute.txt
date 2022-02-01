@@ -1,0 +1,16 @@
+C:\c#\PetClinicTuto\bin\Debug\PetClinicTuto.exe.config
+C:\c#\PetClinicTuto\bin\Debug\PetClinicTuto.exe
+C:\c#\PetClinicTuto\bin\Debug\PetClinicTuto.pdb
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.csproj.AssemblyReference.cache
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.Properties.Resources.resources
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.csproj.GenerateResource.cache
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.csproj.CoreCompileInputs.cache
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.exe
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.pdb
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.Billing.resources
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.Dashboard.resources
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.Doctors.resources
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.Login.resources
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.Pets.resources
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.Prescriptions.resources
+C:\c#\PetClinicTuto\obj\Debug\PetClinicTuto.Receptionists.resources
