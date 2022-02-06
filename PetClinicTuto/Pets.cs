@@ -101,5 +101,10 @@ namespace PetClinicTuto
         {
             //if(PetNameTb.Text == "" || GenCb.SelectedIndex == -1 ||)
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
